@@ -1,0 +1,28 @@
+{
+  "name": "pdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^1.4.0",
+    "@types/node": "^18.7.23",
+    "axios": "^1.2.0",
+    "canvas": "^2.10.2",
+    "cloudscraper": "^4.6.0",
+    "discord-api-types": "^0.37.21",
+    "discord.js": "^14.7.1",
+    "discordjs-button-pagination": "^3.0.1",
+    "dotenv": "^16.0.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "string-progressbar": "^1.0.4",
+    "text-table": "^0.2.0",
+    "uuid": "^9.0.0",
+  }
+}
